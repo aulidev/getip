@@ -1,6 +1,6 @@
 {
-  "name": "getip",
-  "version": "1.0.0",
+  "name": "@aulidev/getip",
+  "version": "0.0.0",
   "description": "Library to Get User IP Address",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
